@@ -1,16 +1,44 @@
-### Hi there 👋
+## Repo Directory 
 
-<!--
-**bbbbbr/bbbbbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Released Console Games
+- Pluto's Corner: 2D Platformer about a cat. (2019)   
+  * [source](https://github.com/bbbbbr/plutoscorner), [itch.io play/download](https://bbbbbr.itch.io/plutos-corner)
+  * 64K: Game Boy
+- Petris: Puzzle game of shapely pets. (2020-2021 * Physical Cart Released)
+  * [source](https://github.com/bbbbbr/Petris), [itch.io play/download](https://bbbbbr.itch.io/petris)
+  * 32K: Game Boy Color, Analogue Pocket, Game Gear
+- Game Boy Wordyl: (2022 * Physical Cart Released)
+  * [source](https://github.com/bbbbbr/gb-wordle), [itch.io play/download](https://bbbbbr.itch.io/gb-wordyl)
+  * 32K: Game Boy / Color, Mega Duck, Analogue Pocket
+- D-Pad/Button Tester: Tool (2022)
+  * [source](https://github.com/bbbbbr/gameboy_button_test), [itch.io download](https://bbbbbr.itch.io/game-boy-button-test)
+   * 32K: Game Boy / Color, Mega Duck, Analogue Pocket
+- Canyon Racer: Playable vertical parallax tech demo/game (2022-2023)
+  * [source](https://github.com/bbbbbr/canyon-racer), [itch.io play/download](https://bbbbbr.itch.io/canyon-racer)
+  * 32K: Game Boy, Mega Duck, Analogue Pocket
 
-Here are some ideas to get you started:
+#### Mega Duck Console Dev Tools & Resources
+- [ROM patch for Tetris](https://github.com/bbbbbr/megaduck-tetris-patch) so it runs on the Mega Duck
+- Port of the hUGE Driver Game Boy music driver to the Mega Duck: [source](https://github.com/bbbbbr/hUGEDriver)
+- Port of the CBTFX Game Boy SFX driver to the Mega Duck: [source](https://github.com/bbbbbr/CBT-FX)
+  * Note: Changes not fully published yet
+- 3D Printable Cartridge Shell: [source](https://github.com/bbbbbr/megaduck_cartridge_shell)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Tools
+- Romusage: Report used/available space for Game Boy ROMs. [console](https://github.com/bbbbbr/romusage)
+- GBToolsID: Identify tools used to build Game Boy ROMs. [web](https://bbbbbr.github.io/gbtoolsid_web/), [console](https://github.com/bbbbbr/gbtoolsid)
+- GIMP Tilemap GB / png2gbtiles: Import/Export Game Boy GBMB/GBTD graphics. [GIMP plugin](https://github.com/bbbbbr/gimp-tilemap-gb), [console](https://github.com/bbbbbr/gimp-tilemap-gb/tree/master/console)
+- GIMP Tilemap Helper: plugin for working with game tile maps. [GIMP plugin](https://github.com/bbbbbr/gimp-tilemap-helper)
+- GIMP Pixel Art Scalers: [GIMP Plugin](https://github.com/bbbbbr/gimp-plugin-pixel-art-scalers)
+- GIMP ROM Bin: plugin to load/save console ROMs as images. [GIMP Plugin](https://github.com/bbbbbr/gimp-rom-bin)
+
+#### Misc tech demos
+- Detecting the Analogue Pocket Game Boy core via wave RAM: [source](https://github.com/bbbbbr/is_it_analoguepocket)
+- Dungeon torch light reveal effect: [source](https://github.com/bbbbbr/gb-torch-effect)
+- Game Boy demake of Axelay mode 7 effect: [source](https://github.com/bbbbbr/gb-axelay-demo), [itch.io](https://bbbbbr.itch.io/gameboy-axelay)
+- Canyon Racer: Playable vertical parallax tech demo/game: [source](https://github.com/bbbbbr/canyon-racer), [itch.io play/download](https://bbbbbr.itch.io/canyon-racer)
+- GB Windows as a large sprite: [source](https://github.com/bbbbbr/gb-window-as-sprite)
+ 
+ ### Misc
+ - Boot ROM dump of the [Maxstation Game Boy clone console](https://github.com/bbbbbr/gameboy_clone_maxstation)
+
