@@ -25,19 +25,19 @@
 - 3D Printable Cartridge Shell: [source](https://github.com/bbbbbr/megaduck_cartridge_shell)
 
 #### Tools
-- Romusage: Report used/available space for Game Boy ROMs. [console](https://github.com/bbbbbr/romusage)
+- Romusage: Dev tool to report used/available space for Game Boy ROMs. [console](https://github.com/bbbbbr/romusage)
 - GBToolsID: Identify tools used to build Game Boy ROMs. [web](https://bbbbbr.github.io/gbtoolsid_web/), [console](https://github.com/bbbbbr/gbtoolsid)
 - GIMP Tilemap GB / png2gbtiles: Import/Export Game Boy GBMB/GBTD graphics. [GIMP plugin](https://github.com/bbbbbr/gimp-tilemap-gb), [console](https://github.com/bbbbbr/gimp-tilemap-gb/tree/master/console)
 - GIMP Tilemap Helper: plugin for working with game tile maps. [GIMP plugin](https://github.com/bbbbbr/gimp-tilemap-helper)
 - GIMP Pixel Art Scalers: [GIMP Plugin](https://github.com/bbbbbr/gimp-plugin-pixel-art-scalers)
 - GIMP ROM Bin: plugin to load/save console ROMs as images. [GIMP Plugin](https://github.com/bbbbbr/gimp-rom-bin)
 
-#### Misc tech demos
+#### Misc Game Boy tech demos
 - Detecting the Analogue Pocket Game Boy core via wave RAM: [source](https://github.com/bbbbbr/is_it_analoguepocket)
 - Dungeon torch light reveal effect: [source](https://github.com/bbbbbr/gb-torch-effect)
-- Game Boy demake of Axelay mode 7 effect: [source](https://github.com/bbbbbr/gb-axelay-demo), [itch.io](https://bbbbbr.itch.io/gameboy-axelay)
+- Demake of Axelay mode 7 effect: [source](https://github.com/bbbbbr/gb-axelay-demo), [itch.io](https://bbbbbr.itch.io/gameboy-axelay)
 - Canyon Racer: Playable vertical parallax tech demo/game: [source](https://github.com/bbbbbr/canyon-racer), [itch.io play/download](https://bbbbbr.itch.io/canyon-racer)
-- GB Windows as a large sprite: [source](https://github.com/bbbbbr/gb-window-as-sprite)
+- GB Window used as a large sprite: [source](https://github.com/bbbbbr/gb-window-as-sprite)
  
  ### Misc
  - Boot ROM dump of the [Maxstation Game Boy clone console](https://github.com/bbbbbr/gameboy_clone_maxstation)
