@@ -18,11 +18,8 @@
   * 32K: Game Boy, Mega Duck, Analogue Pocket
 
 #### Mega Duck Console Dev Tools & Resources
-- [ROM patch for Tetris](https://github.com/bbbbbr/megaduck-tetris-patch) so it runs on the Mega Duck
-- Port of the hUGE Driver Game Boy music driver to the Mega Duck: [source](https://github.com/bbbbbr/hUGEDriver)
-- Port of the CBTFX Game Boy SFX driver to the Mega Duck: [source](https://github.com/bbbbbr/CBT-FX)
-  * Note: Changes not fully published yet
-- 3D Printable Cartridge Shell: [source](https://github.com/bbbbbr/megaduck_cartridge_shell)
+- [Mega Duck Info](https://github.com/bbbbbr/megaduck-info)
+
 
 #### Tools
 - Romusage: Dev tool to report used/available space for Game Boy ROMs. [console](https://github.com/bbbbbr/romusage)
