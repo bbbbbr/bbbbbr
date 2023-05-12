@@ -18,8 +18,10 @@
   * 32K: Game Boy, Mega Duck, Analogue Pocket
 
 #### Mega Duck Console Dev Tools & Resources
-- [Mega Duck Info](https://github.com/bbbbbr/megaduck-info)
+- Mega Duck Info: [source](https://github.com/bbbbbr/megaduck-info), [web](https://bbbbbr.github.io/megaduck-info/)
 
+#### Hardware
+- Game Boy Flash Cart directory: [source](https://github.com/bbbbbr/GameBoy-Flash-Carts), [web](https://bbbbbr.github.io/GameBoy-Flash-Carts/)
 
 #### Tools
 - Romusage: Dev tool to report used/available space for Game Boy ROMs. [console](https://github.com/bbbbbr/romusage)
