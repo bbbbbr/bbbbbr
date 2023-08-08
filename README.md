@@ -24,6 +24,7 @@
 - Game Boy Flash Cart directory: [source](https://github.com/bbbbbr/GameBoy-Flash-Carts), [web](https://bbbbbr.github.io/GameBoy-Flash-Carts/)
 
 #### Tools
+- png2hicolorgb: Build toolchain friendly version of a classic hi-color converter for the GBC. [console](https://github.com/bbbbbr/png2hicolorgb)
 - Romusage: Dev tool to report used/available space for Game Boy ROMs. [console](https://github.com/bbbbbr/romusage)
 - GBToolsID: Identify tools used to build Game Boy ROMs. [web](https://bbbbbr.github.io/gbtoolsid_web/), [console](https://github.com/bbbbbr/gbtoolsid)
 - GIMP Tilemap GB / png2gbtiles: Import/Export Game Boy GBMB/GBTD graphics. [GIMP plugin](https://github.com/bbbbbr/gimp-tilemap-gb), [console](https://github.com/bbbbbr/gimp-tilemap-gb/tree/master/console)
