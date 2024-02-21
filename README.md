@@ -16,6 +16,8 @@
 - Canyon Racer: Playable vertical parallax tech demo/game (2022-2023)
   * [source](https://github.com/bbbbbr/canyon-racer), [itch.io play/download](https://bbbbbr.itch.io/canyon-racer)
   * 32K: Game Boy, Mega Duck, Analogue Pocket
+- Breakout Lava Lamp: Chill, endless breakout-style lava lamp
+  * [source](https://github.com/bbbbbr/breakout-lava-lamp), [itch.io play/download](https://bbbbbr.itch.io/breakout-lava-lamp)
 
 #### Mega Duck Console Dev Tools & Resources
 - Mega Duck Info: [source](https://github.com/bbbbbr/megaduck-info), [web](https://bbbbbr.github.io/megaduck-info/)
