@@ -8,7 +8,7 @@
   * [source](https://github.com/bbbbbr/Petris), [itch.io play/download](https://bbbbbr.itch.io/petris)
   * 32K: Game Boy Color, Analogue Pocket, Game Gear
 - Game Boy Wordyl: (2022 * Physical Cart Released)
-  * [source](https://github.com/bbbbbr/gb-wordle), [itch.io play/download](https://bbbbbr.itch.io/gb-wordyl)
+  * [source](https://github.com/bbbbbr/gb-wordyl), [itch.io play/download](https://bbbbbr.itch.io/gb-wordyl)
   * 32K: Game Boy / Color, Mega Duck, Analogue Pocket
 - D-Pad/Button Tester: Tool (2022)
   * [source](https://github.com/bbbbbr/gameboy_button_test), [itch.io download](https://bbbbbr.itch.io/game-boy-button-test)
