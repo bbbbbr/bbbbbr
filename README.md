@@ -19,7 +19,7 @@
 - Breakout Lava Lamp: Chill, endless breakout-style lava lamp
   * [source](https://github.com/bbbbbr/breakout-lava-lamp), [itch.io play/download](https://bbbbbr.itch.io/breakout-lava-lamp)
 
-#### Mega Duck Console Dev Tools & Resources
+#### Mega Duck / Cougar Boy Console Dev Tools & Resources
 - Mega Duck Info: [source](https://github.com/bbbbbr/megaduck-info), [web](https://bbbbbr.github.io/megaduck-info/)
 
 #### Hardware
