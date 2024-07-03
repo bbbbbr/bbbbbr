@@ -43,4 +43,5 @@
  
  ### Misc
  - Boot ROM dump of the [Maxstation Game Boy clone console](https://github.com/bbbbbr/gameboy_clone_maxstation)
+ - Lightweight JS/JSON local-compatible [gallery](https://github.com/bbbbbr/gbdk-2020-gallery) with filtering
 
