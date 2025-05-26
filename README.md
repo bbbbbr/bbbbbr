@@ -40,6 +40,7 @@
 - Demake of Axelay mode 7 effect: [source](https://github.com/bbbbbr/gb-axelay-demo), [itch.io](https://bbbbbr.itch.io/gameboy-axelay)
 - Canyon Racer: Playable vertical parallax tech demo/game: [source](https://github.com/bbbbbr/canyon-racer), [itch.io play/download](https://bbbbbr.itch.io/canyon-racer)
 - GB Window used as a large sprite: [source](https://github.com/bbbbbr/gb-window-as-sprite)
+- Rolling cylinder effect: [source](https://github.com/bbbbbr/rolly_scrolly_gameboyshowdown_2025)
  
  ### Misc
  - Boot ROM dump of the [Maxstation Game Boy clone console](https://github.com/bbbbbr/gameboy_clone_maxstation)
