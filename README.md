@@ -16,8 +16,12 @@
 - Canyon Racer: Playable vertical parallax tech demo/game (2022-2023)
   * [source](https://github.com/bbbbbr/canyon-racer), [itch.io play/download](https://bbbbbr.itch.io/canyon-racer)
   * 32K: Game Boy, Mega Duck, Analogue Pocket
-- Breakout Lava Lamp: Chill, endless breakout-style lava lamp
+- Breakout Lava Lamp: Chill, endless breakout-style lava lamp (2024)
   * [source](https://github.com/bbbbbr/breakout-lava-lamp), [itch.io play/download](https://bbbbbr.itch.io/breakout-lava-lamp)
+  * 32K MBC5: Game Boy, Mega Duck, Analogue Pocket
+- Den of Snakes: Snake game for the Game Boy 4 Player Adapter (2025)
+  * [source](https://github.com/bbbbbr/gbdk-gb-4-player), [itch.io rom download](https://bbbbbr.itch.io/den-of-snakes-four-player)
+  * 32K: Game Boy, Mega Duck
 
 #### Mega Duck / Cougar Boy Console Dev Tools & Resources
 - Mega Duck Info: [source](https://github.com/bbbbbr/megaduck-info), [web](https://bbbbbr.github.io/megaduck-info/)
@@ -40,9 +44,13 @@
 - Demake of Axelay mode 7 effect: [source](https://github.com/bbbbbr/gb-axelay-demo), [itch.io](https://bbbbbr.itch.io/gameboy-axelay)
 - Canyon Racer: Playable vertical parallax tech demo/game: [source](https://github.com/bbbbbr/canyon-racer), [itch.io play/download](https://bbbbbr.itch.io/canyon-racer)
 - GB Window used as a large sprite: [source](https://github.com/bbbbbr/gb-window-as-sprite)
-- Rolling cylinder effect: [source](https://github.com/bbbbbr/rolly_scrolly_gameboyshowdown_2025)
+- Rolling cylinder effect (2025): [source](https://github.com/bbbbbr/rolly_scrolly_gameboyshowdown_2025)
+- Reading the SNES Mouse and Gamepad on the Game Boy link port (2025): [source](https://github.com/bbbbbr/gbdk_gameboy_snes_mouse)
+  - Patch of an open source Mine Sweeper game to use the SNES Mouse (2025): [source](https://github.com/bbbbbr/mine_gameboy_snes_mouse)
+- Reading a USB Mouse and Keyboard on the Game Boy link port: [source](https://github.com/bbbbbr/gameboy-usb-mouse)
  
  ### Misc
  - Boot ROM dump of the [Maxstation Game Boy clone console](https://github.com/bbbbbr/gameboy_clone_maxstation)
  - Lightweight JS/JSON local-compatible [gallery](https://github.com/bbbbbr/gbdk-2020-gallery) with filtering
+
 
