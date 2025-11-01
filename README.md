@@ -38,7 +38,7 @@
 - GIMP Pixel Art Scalers: [GIMP Plugin](https://github.com/bbbbbr/gimp-plugin-pixel-art-scalers)
 - GIMP ROM Bin: plugin to load/save console ROMs as images. [GIMP Plugin](https://github.com/bbbbbr/gimp-rom-bin)
 
-#### Misc Game Boy tech demos
+#### Misc Game Boy tools and tech demos
 - Detecting the Analogue Pocket Game Boy core via wave RAM: [source](https://github.com/bbbbbr/is_it_analoguepocket)
 - Dungeon torch light reveal effect: [source](https://github.com/bbbbbr/gb-torch-effect)
 - Demake of Axelay mode 7 effect: [source](https://github.com/bbbbbr/gb-axelay-demo), [itch.io](https://bbbbbr.itch.io/gameboy-axelay)
@@ -48,6 +48,7 @@
 - Reading the SNES Mouse and Gamepad on the Game Boy link port (2025): [source](https://github.com/bbbbbr/gbdk_gameboy_snes_mouse)
   - Patch of an open source Mine Sweeper game to use the SNES Mouse (2025): [source](https://github.com/bbbbbr/mine_gameboy_snes_mouse)
 - Reading a USB Mouse and Keyboard on the Game Boy link port: [source](https://github.com/bbbbbr/gameboy-usb-mouse)
+- Button press scanline graph: [source](https://github.com/bbbbbr/gameboy_button_scanline_graph)
  
  ### Misc
  - Boot ROM dump of the [Maxstation Game Boy clone console](https://github.com/bbbbbr/gameboy_clone_maxstation)
