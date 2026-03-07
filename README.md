@@ -1,21 +1,21 @@
 ## Repo Directory 
 
 #### Released Console Games
-- Pluto's Corner: 2D Platformer about a cat
+- **Pluto's Corner**: 2D Platformer about a cat
   * [source](https://github.com/bbbbbr/plutoscorner), [itch.io play/download](https://bbbbbr.itch.io/plutos-corner) - (2019, Game Boy)
-- Petris: Puzzle game of shapely pets
+- **Petris**: Puzzle game of shapely pets
   * [source](https://github.com/bbbbbr/Petris), [itch.io play/download](https://bbbbbr.itch.io/petris) - (2020-2021, Physical Cart, Game Boy Color/Game Gear)
-- Game Boy Wordyl:
+- **Game Boy Wordyl**:
   * [source](https://github.com/bbbbbr/gb-wordyl), [itch.io play/download](https://bbbbbr.itch.io/gb-wordyl) - (2022, Physical Cart, Game Boy/Color/Mega Duck)
-- D-Pad/Button Tester: Tool
+- **D-Pad/Button Tester**: Tool
   * [source](https://github.com/bbbbbr/gameboy_button_test), [itch.io download](https://bbbbbr.itch.io/game-boy-button-test)  - (2022, Game Boy/Color/Mega Duck)
-- Canyon Racer: Playable vertical parallax tech demo/game
+- **Canyon Race**r: Playable vertical parallax tech demo/game
   * [source](https://github.com/bbbbbr/canyon-racer), [itch.io play/download](https://bbbbbr.itch.io/canyon-racer) - (2022-2023, Game Boy/Mega Duck)
-- Breakout Lava Lamp: Chill, endless breakout-style lava lamp
+- **Breakout Lava Lamp**: Chill, endless breakout-style lava lamp
   * [source](https://github.com/bbbbbr/breakout-lava-lamp), [itch.io play/download](https://bbbbbr.itch.io/breakout-lava-lamp) - (2024, Game Boy/Mega Duck)
-- Den of Snakes: Snake game for the Game Boy 4 Player Adapter
+- **Den of Snakes**: Snake game for the Game Boy 4 Player Adapter
   * [source](https://github.com/bbbbbr/gbdk-gb-4-player), [itch.io rom download](https://bbbbbr.itch.io/den-of-snakes-four-player) - (2025, Game Boy/Mega Duck)
-- QR-Paint: Draw on the Game Boy and share with QR-Code
+- **QR-Paint**: Draw on the Game Boy and share with QR-Code
   * [source](https://github.com/bbbbbr/gameboy_qr_paint), [itch.io play/download](https://bbbbbr.itch.io/game-boy-qr-paint) - (2026, Game Boy/Mega Duck)
   
 #### Mega Duck / Cougar Boy Console Dev Tools & Resources
