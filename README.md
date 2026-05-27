@@ -25,6 +25,7 @@
 - Game Boy Flash Cart directory: [source](https://github.com/bbbbbr/GameBoy-Flash-Carts), [web](https://bbbbbr.github.io/GameBoy-Flash-Carts/)
 
 #### Tools
+- tilepalquant: C++ console port of rilden's excellent tile based palette quantizer for images. [console](https://github.com/bbbbbr/tilepalquant)
 - png2hicolorgb: Build toolchain friendly version of a classic hi-color converter for the GBC. [console](https://github.com/bbbbbr/png2hicolorgb)
 - Romusage: Dev tool to report used/available space for Game Boy ROMs. [console](https://github.com/bbbbbr/romusage)
 - GBToolsID: Identify tools used to build Game Boy ROMs. [web](https://bbbbbr.github.io/gbtoolsid_web/), [console](https://github.com/bbbbbr/gbtoolsid)
