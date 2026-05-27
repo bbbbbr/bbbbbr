@@ -44,6 +44,7 @@
 - Reading the SNES Mouse and Gamepad on the Game Boy link port (2025): [source](https://github.com/bbbbbr/gbdk_gameboy_snes_mouse)
   - Patch of an open source Mine Sweeper game to use the SNES Mouse (2025): [source](https://github.com/bbbbbr/mine_gameboy_snes_mouse)
 - Reading a USB Mouse and Keyboard on the Game Boy link port: [source](https://github.com/bbbbbr/gameboy-usb-mouse)
+- SGB Snes Mouse GBDK, an improved version of vinheim3's SGB patch (2026): [source](https://github.com/bbbbbr/sgb-snes-mouse-gbdk)
 - Button press scanline graph: [source](https://github.com/bbbbbr/gameboy_button_scanline_graph)
  
  ### Misc
